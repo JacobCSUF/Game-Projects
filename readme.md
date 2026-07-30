@@ -8,24 +8,10 @@ Download link: https://jacobcsuf.itch.io/flappy-bat-adventure
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 # Spooky Maze
 A simple maze game where your goal is to escape a maze
 Project Repo: to_be_added
@@ -35,6 +21,11 @@ Download link: https://jacobcsuf.itch.io/spooky-maze-2
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 # Shape Shooter
 An asteroids-inspired game where you fight waves of shapes with unique attributes. Features incremental stage difficulty and upgrades
+Project Repo: to_be_added
+Download link: https://jacobcsuf.itch.io/spooky-maze-2
