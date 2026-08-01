@@ -15,7 +15,7 @@ Download link: https://jacobcsuf.itch.io/flappy-bat-adventure
 <br>
 <br>
 
-# Spooky Maze
+# Spooky Maze 2
 A simple maze game where your goal is to escape a maze
 
 Project Repo: to be added...
