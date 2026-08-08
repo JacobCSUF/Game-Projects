@@ -1,7 +1,7 @@
 # Animal Dash 
 A Flappy Bird + Geometry Dash-inspired game featuring 5 unique levels. Each level features various movement transformations. Unlock new skins and animals in the in-game shop!
 
-Project Repo: to be added...
+Project Repo: https://github.com/JacobCSUF/Animal-Dash
 
 Download link: https://jacobcsuf.itch.io/animal-dash
 
