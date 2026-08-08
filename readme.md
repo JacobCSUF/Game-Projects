@@ -38,4 +38,9 @@ An asteroids-inspired game where you fight waves of shapes with unique attribute
 
 Project Repo: to be added...
 
-Download link: https://jacobcsuf.itch.io/spooky-maze-2
+Download link: to be added...
+
+<img width="3839" height="2157" alt="Screenshot 2026-08-07 185344" src="https://github.com/user-attachments/assets/7cb8e61c-807c-4dcd-bd98-f4e507c9fa3f" />
+<img width="3839" height="2157" alt="Screenshot 2026-08-07 184745" src="https://github.com/user-attachments/assets/fc0f180a-99da-4055-997d-d6d78a1f29b3" />
+
+
